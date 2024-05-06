@@ -20,7 +20,3 @@ This repository contains the code for a responsive movie website built with HTML
 - Interactive buttons for play, like, dislike, and add to watchlist
 - Genre filter for easy movie selection
 - Dark mode toggle for improved user experience in low-light environments
-
-Feel free to explore the code and contribute to enhancing this movie website. Pull requests and feedback are welcome!
-# Movie-Website
-# Movie-Website
